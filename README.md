@@ -1,4 +1,4 @@
-# traversy-media-vue-todo-list
+# traversy-media-vue-todo-list https://www.youtube.com/watch?v=Wy9q22isx3U&t=1633s
 
 ## Project setup
 ```
